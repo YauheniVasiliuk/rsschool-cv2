@@ -16,3 +16,9 @@ I'm going to become Frontend Developer in the future.
 
   Specialty: technological equipment of machine-building production
 + JS/FE Pre-School 2022Q4 in the process
+## Experience
+I don't have expirience in front-end development.
+## Languages
++ Belarusian - Native
++ Russian - Native
++ English - A2
