@@ -164,7 +164,7 @@ text-align: center;
 .cv__container{
   display: flex;
   flex-direction: row;
-  background-color: rgb(206, 213, 219);
+  background-color: rgb(244, 245, 246);
 }
 
 .column__left{
@@ -197,4 +197,20 @@ text-align: center;
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+
+.hardskills__flex{
+  display: flex;
+}
+
+.skills__columnright{
+  padding-left: 100px;
+}
+
+.softskills__flex{
+  display: flex;
+}
+
+.softskills__columnright{
+  padding-left: 50px;
 }
